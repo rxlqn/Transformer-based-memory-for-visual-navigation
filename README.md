@@ -3,3 +3,8 @@ transformer + reinforcement learning
 
 
 vec env for IGibson and also easy to reimplement for other environments
+
+Training scritps
+```
+  python /config/scripts/train.py
+```
