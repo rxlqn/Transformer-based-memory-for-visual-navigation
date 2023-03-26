@@ -1,8 +1,8 @@
 # Transformer-based-memory-for-visual-navigation
-transformer + reinforcement learning
+Transformer belief state encoder for encoding history information
+plus PPO algorithm to learn the policy.
 
-
-vec env for IGibson and also easy to reimplement for other environments
+The vector env is designed for IGibson and is also easy to reimplement for other environments.
 
 Training scritps
 ```
