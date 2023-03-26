@@ -2,7 +2,7 @@
 Transformer belief state encoder for encoding history information
 plus PPO algorithm to learn the policy.
 
-The vector env is designed for IGibson and is also easy to reimplement for other environments such as habitat.
+The vector env is designed for IGibson and is also easy to reimplement for other environments such as Habitat.
 
 Training scritps
 ```
